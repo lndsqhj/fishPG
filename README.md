@@ -18,22 +18,22 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20241113-2104.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20241113-2104.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20241113-2104.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241113-2104.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20241115-1257.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20241115-1257.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20241115-1257.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241115-1257.zip
 ```
 
 ## pg包今日更新内容
@@ -47,8 +47,7 @@ PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)
  阿里,UC,夸克使用本zip包不限速，阿里原画不需要svip也不用三方权益包。可能是地球上唯>一一个可以流畅在线播放ISO原盘的zip（注：使用外部播放器播放原盘ISO需要在任务列表中把影视锁定不被杀掉后台才能稳定播放）。注意：不支持仅使用jar，必须zip完整解压使用。网盘原画仅支持原版的影视、OK影视、EasyBox。對本zip内的核心jar的魔改或縫合都>會導致網盤原畫不可播放。多个播放器或多次外挂本zip情况下，需要只保留一个播放器或1个外挂运行，其他的要主动杀掉，否则可能出现网盘播放异常】
 
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.超级优化ffmpeg黑科技实时在线iso remux，兼容所有类型iso，大部分iso可以用EXO硬解选择所有音轨和所有字幕，少部分时间戳不正确的iso只能用mpegts封装（此种ISO起播较慢并非尺寸太大，而是自动切换了一次播放解码器或封装器）
-2.优化iso实时remux兼容性和稳定性。（仍然不能快进）
+1.巨幅优化内置iso实时remux的兼容性和速度，需要重新载入GO代理。（依然不支持点击时间轴快进）
 ```
 
 ## tgsearch包下载地址
